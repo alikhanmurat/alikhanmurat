@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Murat Alikhan</h1>
+<h1 align="center">Murat Alikhan</h1>
 <p align="center">🏛 KBTU Student</p>
 
 <h3 align="left">Connect with me:</h3>
